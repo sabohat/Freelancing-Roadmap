@@ -3,10 +3,10 @@
 - [Welcome to the Course!](https://github.com/sabohat/Freelancing-Roadmap/blob/main/0.%20Welcome!/0.%20Introduction.md)
 
 
-- Create your Upwork Profile
+- Create your Upwork Profile:
     
     - [Sign Up to Upwork](https://github.com/sabohat/Freelancing-Roadmap/blob/main/1.%20Create%20your%20Upwork%20Profile/1.1%20Sign%20Up%20on%20Upwork.md)
-    - Enhance you profile
+    - Enhance your profile
     - Get accepted to Upwork
 
 2 Make your Profile stand out
