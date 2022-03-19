@@ -5,7 +5,7 @@
 
 - Create your Upwork Profile
     
-    - Sign Up to Upwork
+    - [Sign Up to Upwork](https://github.com/sabohat/Freelancing-Roadmap/blob/main/1.%20Create%20your%20Upwork%20Profile/1.1%20Sign%20Up%20on%20Upwork.md)
     - Enhance you profile
     - Get accepted to Upwork
 
